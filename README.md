@@ -9,3 +9,9 @@ my hobies include:
 *sleeping, eating, reading*
 
 je suis un fromage. 🧀🥔
+
+*I take French as a third language.*
+
+*je suis un fromage 🧀*
+
+😀
