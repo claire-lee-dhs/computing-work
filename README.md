@@ -8,4 +8,4 @@ my hobies include:
 
 *sleeping, eating, reading*
 
-je suis un fromage. 🧀
+je suis un fromage. 🧀🥔
