@@ -1,5 +1,5 @@
 # computing-work
-workspace to create short stories for teachers' day (you can find that in my [other repository](https://github.com/claire-lee-dhs/teachers-day))😁
+workspace to create short stories for teachers' day 😁
 
 *hello 😊*
 *I am **claire**, a student of [Dunman High School](https://dunmanhigh.moe.edu.sg/)*
